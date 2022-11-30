@@ -1,2 +1,2 @@
-ddw#!/bin/bash
+#!/bin/bash
 ls -ln
